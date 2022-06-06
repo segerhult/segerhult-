@@ -1,4 +1,9 @@
-<i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i> Configuration
+:lock: cyber security nerd 
+
+:books: Currently freshing up my C skills and Learning GoLang, Docker and Kubernetes on my free time.
+
+
+## Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=segerhult)](https://git.io/streak-stats)
 <td>
