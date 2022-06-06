@@ -1,6 +1,6 @@
-:lock: cyber security nerd 
+:lock: Cyber Security and Automation Nerd
 
-:books: Currently freshing up my C skills and Learning GoLang, Docker and Kubernetes on my free time.
+:books: Currently freshing up my C skills and Learning GoLang, Docker and Kubernetes on my free time and love automation. 
 
 
 ## Stats
