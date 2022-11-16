@@ -1,4 +1,4 @@
-:lock: Cyber Security and Automation Nerd
+:lock: Cyber Security & Embeded Systems
 
 :books: Currently freshing up my C skills and Learning GoLang, Docker and Kubernetes on my free time and love automation. 
 
